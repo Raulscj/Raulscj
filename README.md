@@ -1,5 +1,11 @@
 # 💫 About Me:
-Soy Raul Gonzalez, Ingeniero en Computación con conocimientos en informatica. Venezolano apasionado por aprender cosas nuevas, mejorar las que ya se y crecer como profesional.<br>
+✔RAUL GONZALEZ.
+✔25 years olds.
+✔TSU en Informatica.
+✔ING en Computación.
+✔Backend Developer.
+✔Con ganas de aprender cada día más.
+<br>
 
 
 ## 🌐 Socials:
