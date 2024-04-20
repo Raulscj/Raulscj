@@ -1,11 +1,9 @@
 # 💫 About Me:
-✔RAUL GONZALEZ.
-✔25 years olds.
-✔TSU en Informatica.
-✔ING en Computación.
-✔Backend Developer.
-✔Con ganas de aprender cada día más.
-<br>
+✔RAUL GONZALEZ.<br>
+✔25 years olds.<br>
+✔TSU en Informatica.<br>
+✔ING en Computación.<br>
+✔Aprendiendo Backend & Frontend.<br>
 
 
 ## 🌐 Socials:
