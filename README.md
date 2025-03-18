@@ -3,7 +3,7 @@
 ✔25 years olds.<br>
 ✔TSU en Informatica.<br>
 ✔ING en Computación.<br>
-✔Aprendiendo Backend & Frontend.<br>
+✔Learning BlockChain Development.<br>
 
 
 ## 🌐 Socials:
