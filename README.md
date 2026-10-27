@@ -1,6 +1,6 @@
 # 💫 About Me:
 ✔RAUL GONZALEZ.<br>
-✔26 years olds.<br>
+✔27 years olds.<br>
 ✔TSU en Informatica.<br>
 ✔ING en Computación.<br>
 ✔Learning BlockChain Development.<br>
